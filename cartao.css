@@ -28,7 +28,7 @@ form{
     gap: 30px;
     height: 300px;
     overflow:scroll;
-    width: 50%;
+    width: fit-content;
     border: 1px solid black;
 }
 
